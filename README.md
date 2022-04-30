@@ -41,7 +41,7 @@ Demo screenshots using two faces can be seen below.
 
 ![](readme-images/Test2.png)
 
-## Requirements
+## Getting Started
 
 ### Prerequisites
 To use this bot, some packages need to be installed, download these packages from your terminal
